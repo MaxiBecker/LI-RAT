@@ -1,5 +1,5 @@
 # LI-RAT
-Assessing creativity independently of language: A normed Language Independent Remote Associate Task (LIRAT)
+Assessing creativity independently of language: A Language Independent Remote Associate Task (LIRAT)
 
 Most creativity measures are either complex or language-dependent hindering cross-cultural creativity assessment. 
 We have therefore developed and tested a simple, language-independent insight task based on pictures in the style of 
